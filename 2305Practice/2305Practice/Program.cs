@@ -10,7 +10,7 @@
         {
             #region  Task1
             Console.WriteLine("Enter a Season name");
-            string season = Convert.ToString(Console.ReadLine().ToLower());
+            string season = Console.ReadLine().ToLower();
             switch (season) 
             {
                 case "winter":
@@ -26,7 +26,7 @@
                     Console.WriteLine("Payiz");
                     break;
             }
-            string Rseason = season switch
+            string rSeason = season switch
             {
                 "winter" => "Qiş",
                 "spring" => "Yaz",
@@ -34,7 +34,7 @@
                 "fall" => "Payiz",
                 _ => "Olmayan mövsümü daxil etdiniz "
             };
-            Console.WriteLine(Rseason);
+            Console.WriteLine(rSeason);
 
 
 
