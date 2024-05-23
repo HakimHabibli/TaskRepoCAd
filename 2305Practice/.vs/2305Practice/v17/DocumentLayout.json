@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Task Folder\\2305Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAE0B1-D058-447B-9E79-D52D78E6EABF}|2305Practice\\2305Practice.csproj|c:\\users\\77upt\\desktop\\task folder\\2305practice\\2305practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAE0B1-D058-447B-9E79-D52D78E6EABF}|2305Practice\\2305Practice.csproj|solutionrelative:2305practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\2305Practice\\2305Practice\\Program.cs",
+              "RelativeDocumentMoniker": "2305Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\2305Practice\\2305Practice\\Program.cs",
+              "RelativeToolTip": "2305Practice\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:21:36.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

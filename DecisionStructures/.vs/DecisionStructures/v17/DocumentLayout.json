@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D94622-56CB-435F-A793-7E301553500C}|SwitchCase\\SwitchCase.csproj|c:\\users\\77upt\\desktop\\task folder\\decisionstructures\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D94622-56CB-435F-A793-7E301553500C}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D94622-56CB-435F-A793-7E301553500C}|SwitchCase\\SwitchCase.csproj|c:\\users\\77upt\\desktop\\task folder\\decisionstructures\\switchcase\\switchcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04D94622-56CB-435F-A793-7E301553500C}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\switchcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0086597-AC01-46F0-9483-935ADCDC1AF6}|IfElse\\IfElse.csproj|c:\\users\\77upt\\desktop\\task folder\\decisionstructures\\ifelse\\ifelse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0086597-AC01-46F0-9483-935ADCDC1AF6}|IfElse\\IfElse.csproj|solutionrelative:ifelse\\ifelse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0086597-AC01-46F0-9483-935ADCDC1AF6}|IfElse\\IfElse.csproj|c:\\users\\77upt\\desktop\\task folder\\decisionstructures\\ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0086597-AC01-46F0-9483-935ADCDC1AF6}|IfElse\\IfElse.csproj|solutionrelative:ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwitchCase",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\SwitchCase\\SwitchCase.csproj",
+              "RelativeDocumentMoniker": "SwitchCase\\SwitchCase.csproj",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\SwitchCase\\SwitchCase.csproj",
+              "RelativeToolTip": "SwitchCase\\SwitchCase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T08:17:07.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "SwitchCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:46:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IfElse.csproj",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\IfElse\\IfElse.csproj",
+              "RelativeDocumentMoniker": "IfElse\\IfElse.csproj",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\IfElse\\IfElse.csproj",
+              "RelativeToolTip": "IfElse\\IfElse.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T07:25:24.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\IfElse\\Program.cs",
+              "RelativeDocumentMoniker": "IfElse\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\DecisionStructures\\IfElse\\Program.cs",
+              "RelativeToolTip": "IfElse\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:25:11.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
