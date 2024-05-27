@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\bin\Debug\net8.0\ArrayFunction.exe
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\bin\Debug\net8.0\ArrayFunction.deps.json
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\bin\Debug\net8.0\ArrayFunction.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\bin\Debug\net8.0\ArrayFunction.dll
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\bin\Debug\net8.0\ArrayFunction.pdb
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.dll
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\refint\ArrayFunction.dll
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.pdb
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ArrayFunction.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\27may\ArrayFunction\ArrayFunction\obj\Debug\net8.0\ref\ArrayFunction.dll
