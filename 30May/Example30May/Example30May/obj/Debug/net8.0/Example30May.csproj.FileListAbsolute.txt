@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\bin\Debug\net8.0\Example30May.exe
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\bin\Debug\net8.0\Example30May.deps.json
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\bin\Debug\net8.0\Example30May.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\bin\Debug\net8.0\Example30May.dll
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\bin\Debug\net8.0\Example30May.pdb
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.dll
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\refint\Example30May.dll
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.pdb
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\Example30May.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\30May\Example30May\Example30May\obj\Debug\net8.0\ref\Example30May.dll
