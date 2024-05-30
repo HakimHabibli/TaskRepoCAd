@@ -6,11 +6,20 @@
         {
             int[] array = { 0, 2, 3 ,5,-45,556,687,-12442};
             //ExampleArrayMaxMin(array);
-            
+            ExampleOddOrEven(array);
 
 
         }
-     
+        static void ExampleOddOrEven(int[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] % 2 == 0) { Console.WriteLine("Ədəd cütdür " + arr[i]); }
+                else { Console.WriteLine("Ədəd təkdir " + arr[i]); }
+
+            }
+        }
+
         static void ExampleArrayMaxMin(int[] arr) 
         {
             int max = arr[0];
