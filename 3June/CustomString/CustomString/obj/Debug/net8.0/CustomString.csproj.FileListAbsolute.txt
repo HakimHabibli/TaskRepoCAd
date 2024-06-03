@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\bin\Debug\net8.0\CustomString.exe
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\bin\Debug\net8.0\CustomString.deps.json
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\bin\Debug\net8.0\CustomString.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\bin\Debug\net8.0\CustomString.dll
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\bin\Debug\net8.0\CustomString.pdb
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.dll
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\refint\CustomString.dll
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.pdb
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\CustomString.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\3June\CustomString\CustomString\obj\Debug\net8.0\ref\CustomString.dll

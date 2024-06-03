@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Task Folder\\3June\\CustomString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D715C-439F-4C90-94C6-25679455F5CC}|CustomString\\CustomString.csproj|c:\\users\\77upt\\desktop\\task folder\\3june\\customstring\\customstring\\custommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D715C-439F-4C90-94C6-25679455F5CC}|CustomString\\CustomString.csproj|solutionrelative:customstring\\custommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D715C-439F-4C90-94C6-25679455F5CC}|CustomString\\CustomString.csproj|c:\\users\\77upt\\desktop\\task folder\\3june\\customstring\\customstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D715C-439F-4C90-94C6-25679455F5CC}|CustomString\\CustomString.csproj|solutionrelative:customstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMethods.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\3June\\CustomString\\CustomString\\CustomMethods.cs",
+              "RelativeDocumentMoniker": "CustomString\\CustomMethods.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\3June\\CustomString\\CustomString\\CustomMethods.cs",
+              "RelativeToolTip": "CustomString\\CustomMethods.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:18:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\3June\\CustomString\\CustomString\\Program.cs",
+              "RelativeDocumentMoniker": "CustomString\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\3June\\CustomString\\CustomString\\Program.cs",
+              "RelativeToolTip": "CustomString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:17:59.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
