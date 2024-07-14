@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\utilities\\extensions\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\utilities\\extensions\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|c:\\users\\77upt\\desktop\\restaurant\\task12072024\\task12072024\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC23AE6E-764F-4028-AC2E-74019AD87CAB}|Task12072024\\Task12072024.csproj|solutionrelative:task12072024\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Utilities\\Extensions\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Utilities\\Extensions\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Utilities\\Extensions\\ExtensionMethod.cs",
+              "RelativeToolTip": "Task12072024\\Utilities\\Extensions\\ExtensionMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:54:39.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Order.cs",
+              "RelativeToolTip": "Task12072024\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:48:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Dish.cs",
+              "RelativeToolTip": "Task12072024\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:41:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Category.cs",
+              "RelativeToolTip": "Task12072024\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:40:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Task12072024\\Models\\Restaurant.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:31:09.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Program.cs",
+              "RelativeDocumentMoniker": "Task12072024\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Restaurant\\Task12072024\\Task12072024\\Program.cs",
+              "RelativeToolTip": "Task12072024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:31:08.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

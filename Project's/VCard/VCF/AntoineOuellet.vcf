@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ouellet;Antoine;;;
+FN:Antoine   Ouellet
+EMAIL;TYPE=INTERNET:antoine.ouellet@example.com
+TEL;TYPE=CELL:N05 C21-4168
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

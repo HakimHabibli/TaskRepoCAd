@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Task Folder\\Constructur_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675DBCDA-4657-4544-BF96-EA1BC83D204B}|Constructur_\\Constructur_.csproj|c:\\users\\77upt\\desktop\\task folder\\constructur_\\constructur_\\baseentitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675DBCDA-4657-4544-BF96-EA1BC83D204B}|Constructur_\\Constructur_.csproj|solutionrelative:constructur_\\baseentitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DBCDA-4657-4544-BF96-EA1BC83D204B}|Constructur_\\Constructur_.csproj|c:\\users\\77upt\\desktop\\task folder\\constructur_\\constructur_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675DBCDA-4657-4544-BF96-EA1BC83D204B}|Constructur_\\Constructur_.csproj|solutionrelative:constructur_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\Constructur_\\Constructur_\\BaseEntityBase.cs",
+              "RelativeDocumentMoniker": "Constructur_\\BaseEntityBase.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\Constructur_\\Constructur_\\BaseEntityBase.cs*",
+              "RelativeToolTip": "Constructur_\\BaseEntityBase.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:34:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\Constructur_\\Constructur_\\Program.cs",
+              "RelativeDocumentMoniker": "Constructur_\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\Constructur_\\Constructur_\\Program.cs",
+              "RelativeToolTip": "Constructur_\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:33:28.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

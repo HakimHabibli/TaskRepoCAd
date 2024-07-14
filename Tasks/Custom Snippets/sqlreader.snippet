@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>sqlreader</Title>
+			<Shortcut>sqlreader</Shortcut>
+			<Description>Code snippet for 'sqlreader' Ado.Net</Description>
+			<Author>Microsoft Corporation</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>table</ID>
+					<Default>TableName</Default>
+					<ToolTip>Table Name</ToolTip>
+				</Literal>
+				<Literal>
+					<ID>columName</ID>
+					<Default>Name</Default>
+					<ToolTip>Column Name</ToolTip>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[SqlConnection con = new SqlConnection();
+            con.ConnectionString = "Server=.;Database=Northwind;Integrated Security=true;";
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = con;
+            cmd.CommandText = "SELECT * FROM $table$";
+            con.Open();
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read())
+            {
+                Console.WriteLine(dr["$columName$"]);
+            }]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

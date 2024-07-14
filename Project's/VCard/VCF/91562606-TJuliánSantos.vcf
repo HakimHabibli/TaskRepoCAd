@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Santos;Julián;;;
+FN:Julián   Santos
+EMAIL;TYPE=INTERNET:julian.santos@example.com
+TEL;TYPE=CELL:978-518-811
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Drozdenko;Gelena;;;
+FN:Gelena   Drozdenko
+EMAIL;TYPE=INTERNET:gelena.drozdenko@example.com
+TEL;TYPE=CELL:(067) I32-5785
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

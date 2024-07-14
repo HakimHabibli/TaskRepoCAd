@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Nielsen;Noa;;;
+FN:NoaNielsen
+EMAIL;TYPE=INTERNET:noa.nielsen@example.com
+TEL;TYPE=CELL:54689744
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

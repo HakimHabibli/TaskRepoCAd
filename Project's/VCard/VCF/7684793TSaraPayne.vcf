@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Payne;Sara;;;
+FN:Sara   Payne
+EMAIL;TYPE=INTERNET:sara.payne@example.com
+TEL;TYPE=CELL:011-178-3143
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bouchard;Daniel;;;
+FN:Daniel   Bouchard
+EMAIL;TYPE=INTERNET:daniel.bouchard@example.com
+TEL;TYPE=CELL:Z30 Y46-7515
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

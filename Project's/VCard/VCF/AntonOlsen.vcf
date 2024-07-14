@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Olsen;Anton;;;
+FN:Anton   Olsen
+EMAIL;TYPE=INTERNET:anton.olsen@example.com
+TEL;TYPE=CELL:71275053
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

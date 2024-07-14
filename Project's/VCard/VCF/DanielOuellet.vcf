@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ouellet;Daniel;;;
+FN:Daniel   Ouellet
+EMAIL;TYPE=INTERNET:daniel.ouellet@example.com
+TEL;TYPE=CELL:C87 I48-3419
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

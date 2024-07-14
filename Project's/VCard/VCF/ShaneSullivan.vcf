@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sullivan;Shane;;;
+FN:Shane   Sullivan
+EMAIL;TYPE=INTERNET:shane.sullivan@example.com
+TEL;TYPE=CELL:021-581-5912
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

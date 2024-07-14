@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Campos;Magdalena;;;
+FN:MagdalenaCampos
+EMAIL;TYPE=INTERNET:magdalena.campos@example.com
+TEL;TYPE=CELL:948-200-197
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

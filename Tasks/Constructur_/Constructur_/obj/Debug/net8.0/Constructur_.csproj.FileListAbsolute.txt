@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\bin\Debug\net8.0\Constructur_.exe
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\bin\Debug\net8.0\Constructur_.deps.json
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\bin\Debug\net8.0\Constructur_.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\bin\Debug\net8.0\Constructur_.dll
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\bin\Debug\net8.0\Constructur_.pdb
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.dll
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\refint\Constructur_.dll
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.pdb
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\Constructur_.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\Constructur_\Constructur_\obj\Debug\net8.0\ref\Constructur_.dll

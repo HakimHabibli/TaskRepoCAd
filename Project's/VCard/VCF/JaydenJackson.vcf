@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jackson;Jayden;;;
+FN:Jayden   Jackson
+EMAIL;TYPE=INTERNET:jayden.jackson@example.com
+TEL;TYPE=CELL:(070)-627-6662
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

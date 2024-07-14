@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sørdal;Elling;;;
+FN:Elling   Sørdal
+EMAIL;TYPE=INTERNET:elling.sordal@example.com
+TEL;TYPE=CELL:22619204
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

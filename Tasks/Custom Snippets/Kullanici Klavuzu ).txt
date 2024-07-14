@@ -1,0 +1,3 @@
+project->Tolls->Code snippets maneger(CTRL+K+B) ->Lanaguage:Csharp ->Bir snippeti götürüb copy edib hazir cod blokunu CDATA[*bura*] yapistirmaq->Title,Shortcut,Description hissesini yazmaq + Literal bolmunde hemin qisa yolu cagirib Literal hissesinin ID,Default,ToolTip hissesini deyismek
+*CDATA hissesinde yazilan koddaki dinamik hisseni $*bura*$
+yazaraq duzeltmeliyik

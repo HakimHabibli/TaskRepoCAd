@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kyllonen;Anni;;;
+FN:Anni   Kyllonen
+EMAIL;TYPE=INTERNET:anni.kyllonen@example.com
+TEL;TYPE=CELL:04-214-047
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Tuomala;Isla;;;
+FN:Isla   Tuomala
+EMAIL;TYPE=INTERNET:isla.tuomala@example.com
+TEL;TYPE=CELL:06-621-652
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

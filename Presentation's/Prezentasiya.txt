@@ -1,0 +1,37 @@
+Geliştirilebilecek Web Uygulaması Kategorileri 
+  - **Rezervasyon ve Etkinlik Yönetim Sistemi**: Etkinlikler ve rezervasyonlar için yönetim.
+basliq verilsin sonra rezervasiya mentiqinin ne oldugu aciqlansin
+
+ 
+- Her Bir Kategori İçin 3 Referans Proje (Diğer kategoriler için benzer şekilde örnekler sağlayın)
+Rezervasyon ve Etkinlik Yönetim Sistemi
+-ENabiz (Insanlarin ora daxil olub oz melumatlarini gormesi )
+-KapitalBank Chat
+
+
+
+
+- Referans Proje İncelemesi ve Dokümantasyon (Her referans projeyi inceleyerek aşağıdaki bilgileri belirleyin)
+  - **Kapsamı**: insanlarin bir yerden saglamliqlarini idare etmesi ve bütün melumatlarin orda sonsuza qeder tam deqiqliyi ile tapilmasinin mümkün olunmasi
+  - **Hedefi**: Projenin başlıca hedefleri.
+  - **Ölçeği**: Lokal
+  - **Kullanılan** Yapılar: Login-register(FIN),RoleManager,Payment,Chat ,müşteri-mağaza girişi.
+
+
+
+
+
+ Referans Projelerden Çıkarım (Bu incelemelerden sonra aşağıdaki soruları düşünün)
+ 
+  - Hangi kategoride proje geliştirmek istiyorsunuz?
+  - Hangi yapıları ve özellikleri dahil edeceksiniz?
+
+
+
+
+
+
+- Proje Fikirleri Üzerinden Müzakere ve Geri Bildirim
+  - Proje fikirlerinizi tartışın ve ekip üyelerinden veya mentorlardan geri bildirim alın.
+  - Bu aşama, projenin yönünü belirlemek ve potansiyel zorlukları önceden belirlemek için önemlidir.
+ 

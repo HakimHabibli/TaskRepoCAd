@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Verduzco;Violeta;;;
+FN:Violeta   Verduzco
+EMAIL;TYPE=INTERNET:violeta.verduzco@example.com
+TEL;TYPE=CELL:(610) 010 4387
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Shulga Mihaylo;Peremil;;;
+FN:Peremil   Shulga Mihaylo
+EMAIL;TYPE=INTERNET:peremil.shulgamihaylo@example.com
+TEL;TYPE=CELL:(066) G48-0900
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Torres;Amber;;;
+FN:AmberTorres
+EMAIL;TYPE=INTERNET:amber.torres@example.com
+TEL;TYPE=CELL:015396 13953
+ADR;TYPE=HOME:;;;;;;
+END:VCARD

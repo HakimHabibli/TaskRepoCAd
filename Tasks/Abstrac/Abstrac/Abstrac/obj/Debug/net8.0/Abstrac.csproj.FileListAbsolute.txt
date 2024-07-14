@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\bin\Debug\net8.0\Abstrac.exe
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\bin\Debug\net8.0\Abstrac.deps.json
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\bin\Debug\net8.0\Abstrac.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\bin\Debug\net8.0\Abstrac.dll
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\bin\Debug\net8.0\Abstrac.pdb
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.dll
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\refint\Abstrac.dll
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.pdb
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\Abstrac.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\Abstrac\Abstrac\Abstrac\obj\Debug\net8.0\ref\Abstrac.dll

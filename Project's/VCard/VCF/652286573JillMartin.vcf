@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Martin;Jill;;;
+FN:JillMartin
+EMAIL;TYPE=INTERNET:jill.martin@example.com
+TEL;TYPE=CELL:02-4572-8405
+ADR;TYPE=HOME:;;;;;;
+END:VCARD
