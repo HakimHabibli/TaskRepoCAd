@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\bin\Debug\net8.0\Task.exe
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\bin\Debug\net8.0\Task.deps.json
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\bin\Debug\net8.0\Task.dll
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\bin\Debug\net8.0\Task.pdb
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.dll
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\refint\Task.dll
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.pdb
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\Project's\C#All\Task\Task\obj\Debug\net8.0\ref\Task.dll
